@@ -1,5 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quanleio&show_icons=true&theme=radical)
+![Quanle's GitHub stats](https://github-readme-stats.vercel.app/api?username=quanleio&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanleio&layout=compact)](https://github.com/quanleio/github-readme-stats)
 
 ### Hi there 👋
 
